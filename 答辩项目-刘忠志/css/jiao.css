@@ -1,0 +1,27 @@
+.tuihuo{width:100%;overflow:hidden;background-color:#ffffff;}
+.tui{width:1200px;margin:auto;border-bottom:1px solid #e4e4e4;overflow:hidden;}
+.tuihuo a{text-decoration:blink;color:#000000;}
+.tuihuo ul{list-style:none;}
+.tuihuo ul li{float:left;width:300px;text-align:center;margin-top:40px;}
+.tuihuo ul li span{display:block;padding-top:15px;margin-bottom:40px;}
+.foot{width:100%;overflow:hidden;}
+.footnei{width:1200px;margin:auto;padding:70px 0 60px;}
+.footnei div{width:240px;float:left;}
+.foot ul{list-style:none;}
+.foot p{padding-bottom:10px;font-size:1.5rem;}
+.foot a{text-decoration:blink;color:#666666;}
+.foot a:hover{color:#000000;}
+.foot ul li{float:left;width:240px;padding-bottom:10px;}
+#kefu{padding-left:235px;}
+#kefu a{text-decoration:blink;font-family: FZLTXIANH,"Microsoft YaHei",Arial;color:#000000;}
+.dianhua{font-size:35px;padding-bottom:10px;}
+.zaixian{border:1px solid #000000;text-align:center;line-height:50px;}
+.jiaobu{width:100%;background-color:#f2f2f2;margin-top:65px;}
+.jiaobu a{text-decoration: blink;color: #030200;}
+.jiaonei{width:1200px;margin:auto;}
+.jiao_1{width:540px;float:left;padding-top:30px;line-height:10px;}
+.jiao_2{width:130px;float:left;padding-top:10px;}
+.jiao_3{width:;200px;float:right;padding-top:30px;text-align:center;}
+.guo{float:right;padding-left:10px;padding-top:30px;}
+.jiao_4{width:300px;padding-bottom:40px;}
+
