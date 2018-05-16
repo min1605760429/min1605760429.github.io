@@ -1,0 +1,27 @@
+.zhuti{background-color:#efefef;overflow: hidden;width:100%;}
+.zhutinei{padding-top:142px;overflow: hidden;width:1300px;padding-bottom:130px;}
+.datu,.xiaotu,.youss{float:left;}
+.datu ul{list-style:none;}
+.xiaotu{padding-top:170px;padding-left:27px;}
+.datu{padding-left:135px;}
+.youss{width:500px;padding-left:120px;color:#333333;}
+.p_1{font-size:25px;padding-bottom:20px;padding-top:20px;}
+.p_2{font-size:35px;border-bottom:1px solid #cccccc;line-height:60px;}
+.p_3{font-size:15px;padding-top:30px;}
+.p_4{font-size:15px;padding-top:40px;}
+.youss ul{list-style:none;padding-top:70px;}
+.youss ul li{float:left;}
+.youss img{padding-left:18px;margin-top:-1px;}
+.ul_li{background-color:#eb0028;width:200px;height:50px;text-align:center;line-height:50px;}
+.ul_li:hover{background-color:#d70226;}
+.ul_li a{color:white;text-decoration: blink;}
+.xuantin{background-color:white;width:100%;}
+.xuan_fix{position: fixed;top:0;left:0;z-index: 10;}
+.xuantin ul{list-style:none;overflow:hidden;line-height:80px;margin:auto;width:244px;}
+.xuantin ul li{float:left;width:122px;text-align:center;}
+.xuantin ul li{color:#999999;cursor: pointer}
+.xuantin ul li:hover{background-color:#d70226;color:white;}
+.jie{background-color:#efefef;width:100%;overflow:hidden;}
+.jieshaoaa{width:900px;margin: 0 auto;}
+.san{width:190px;line-height:1.8;float:left;}
+.sanbao{width:577px;float:left;line-height:1.8;font-size:14px;padding-left:30px;color:#999999;padding-bottom:20px;border-bottom:1px solid #e0e0e0;}

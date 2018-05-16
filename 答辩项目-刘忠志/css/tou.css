@@ -1,0 +1,25 @@
+*{padding:0;margin:0;}
+.tounei{width:1203px;height:80px;margin:0 auto;position:relative;}
+h1{float:left;width:44px;height:44px;display:block;margin:17px 0 0 23px;position:absolute;left:0;top:0;}
+.touzhong{width:790px;position:absolute;top:0;left:390px;}
+.touzhong ul{list-style:none;height:80px;}
+.touzhong ul li{float:left;font:14px ËÎÌו;}
+.touzhong a{line-height:75px;display:block;text-align:center;text-decoration:none;padding-left:30px;padding-right:30px;color:#7e7e7e;}
+.touzhong a:hover{color:black;}
+.touyou{width:200px;height:80px;position:absolute;left:1050px;top:31px;}
+.c{padding-left:40px;padding-right:40px;}
+.logo{background-color:#f1f1f1;height:150px;width:100%;overflow: hidden;position: relative;z-index:1;}
+.logo_new{position: fixed;top:0;box-shadow: 0 5px 10px #4e4e4e;}
+/*.logo_inner{position:relative;}*/
+.logonei{width:790px;position:absolute;top:0;left:270px;}
+.logonei a:hover{color:red;}
+.logo ul{list-style:none;}
+.logo ul li{float:left;width:105px;text-align:center;padding-top:40px;}
+.logo a{display:block;text-decoration:none;font:14px ËÎÌו;color:#333333;line-height:25px;}
+.logo span{display:block;padding-top:25px;}
+#gouwu{width:320px;height:55px;position:absolute;top:80px;left:975px;border:1px;box-shadow:0 4px 2px #4e4e4e;
+    z-index:5;text-align:center;line-height:50px;color:black;background-color:#ffffff;}
+.bord{border-bottom:5px solid red;}
+
+
+
