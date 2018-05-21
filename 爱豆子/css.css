@@ -1,0 +1,159 @@
+*{padding:0;margin:0 auto;}
+header{background-color:#000000;color:#ffffff;height:61px;
+    width: 100%;}
+.div_1{width:1260px;height:33px;padding-top:15px;}
+.img_1{float:left;padding-right:44px;}
+.ul_1{list-style:none;}
+.ul_1 li{float:left;margin-left:10px;line-height:30px;width:80px;height:25px;text-align:center;}
+.ul_1_1>li{list-style:none;background-color:#000000;padding-top:15px;padding-bottom:5px;width:150px;text-align:left;}
+.ul_1_1{position:relative;z-index:100;}
+.li_1{border-bottom:#ffffff solid 2px;}
+.ul_1 li:hover{border-bottom:#ffffff solid 2px;}
+.li_2 a{color:#ff6700;}
+.li_3{background-color:#ff6700;width:50px;padding:3px;}
+a{color:#ffffff;text-decoration:none;}
+.swiper-container{width: 100%;height:100%;}
+.swiper-wrapper img{width:100%;}
+.swiper-slide {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.div_2{width:1190px;height:181px;margin-top:70px;animation: left 1s linear both;}
+@keyframes left {
+    0%{
+        -webkit-transform: translate(-100%);
+        -moz-transform: translate(-100%);
+        -ms-transform: translate(-100%);
+        -o-transform: translate(-100%);
+        transform: translate(-100%);
+    }
+    100%{
+        transform: translate(0);
+    }
+}
+.bannerlist li{list-style:none;float:left;padding:15px;}
+.bannerlist li a{width:263px;height:147px;display:block;background-color:#000000;opacity:0.3;text-decoration:none;margin-top:-152px;}
+.a1{
+    animation: fangda .2s linear both;
+}
+@keyframes fangda {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 263px;
+    }
+}
+.div_3{width:1190px;text-align:center;padding-top:60px;}
+.div_4{width:1190px;height:280px;overflow:hidden;}
+.div_4 img{margin:8px;}
+.div_5{text-align:center;background-color:#404953;margin-top:30px;}
+.div_5 p{line-height:35px;color:#fefefe;}
+.div_5_p1{color:white;font-size:20px;padding-top:54px;}
+.div_5_p3{padding-top:53px;}
+.div_5_img_2{padding-top:18px;padding-bottom:70px;}
+.div_6{height:478px;}
+.div_6_1{width:1170px;text-align:center;}
+.div_6_2{width:1170px;margin:0 auto;padding-top:35px;}
+.div_6_2 ul{list-style:none;}
+.div_6_2 ul li{float:left;padding:5px;}
+.div_6_2 ul li a{width:361px;height:181px;display:block;background-color:#000000;opacity:0.3;text-decoration:none;margin-top:-181px;}
+.a2{
+    animation: fang .3s linear both;
+}
+@keyframes fang {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 361px;
+    }
+}
+.div_6_2 div{border:1px solid;border-top:0 solid;}
+.div_6_2 h3{padding:13px;}
+.div_6_2 p{padding:10px;color:#517789;}
+.div_6_2 h3:hover{color:#ff6701;}
+footer{background-color:#282d32;height:270px;margin-top:50px;}
+.fp1{width:1000px;text-align:center;color:#aaaaaa;padding-top:10px;}
+.bwe{text-align:center;padding-top:40px;}
+.bwe p{color:#aaaaaa;padding:10px;}
+.xialai{
+    animation: top 1s linear both;
+}
+@keyframes top {
+    0%{
+      transform: translateY(-60px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.shangqu{
+    animation: dow 1s linear both;
+}
+@keyframes dow {
+    0%{
+        transform: translateY(50px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.shangqu1{
+     animation: ab 1s linear both;
+ }
+@keyframes ab {
+    0%{
+        transform: translateY(50px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.shangqu2{
+         animation: ca 1s linear both;
+     }
+@keyframes ca {
+    0%{
+        transform: translateY(50px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.shangqu3{
+    animation: sk 1s linear both;
+}
+@keyframes sk {
+    0% {
+        transform: translateY(-100px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+body .guding{
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    left: 0;
+    animation: xiahua .8s both linear;
+}
+@keyframes xiahua {
+    0% {
+        transform: translateY(-61px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}

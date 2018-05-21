@@ -1,0 +1,66 @@
+*{padding:0;margin:0;}
+.div_1{background-color:#000000;width:100%;height:0.64rem;font-size:1px;}
+.div_1 img{width:2.09rem;height:0.32rem;font-size:1px;padding-top:0.15rem;padding-left:0.05rem;}
+.div_2{width:100%;margin-top:0.2rem;}
+.div_2 ul{list-style:none;}
+.div_2 ul li{text-align: center;}
+.div_2 ul li img{width:3.86rem;height:2.15rem;}
+.aa,.bb,.cc,.dd{animation: left 1s linear both;}
+@keyframes left {
+    0%{transform: translate(100%);}
+    100%{transform: translate(0);}
+}
+.zuo1{animation: zuo1 1s linear both;}
+.div_3{text-align:center;}
+.div_3 h3{font-size:0.3rem;padding-bottom:0.2rem;}
+.div_3 img{padding-bottom:0.2rem;}
+.div_4{width:3.74rem;overflow:hidden;margin:0 auto;position: relative;}
+.div_4_1{width:14.96rem;height:2.81rem;}
+.div_4 img{width:3.74rem;height:2.81rem;float:left;}
+.ppp{font-size:0.2rem;}
+.img1{width:0.27rem;height:0.03rem;display: block;padding-left:1.9rem;}
+.zuo{position: absolute;left:0.02rem;top:1.25rem;background-color: #000000;color:white;width:0.5rem;height:0.5rem;text-align:center;border-radius:50%;font-size:0.32rem;}
+.you{position: absolute;right:0.02rem;top:1.25rem;background-color: #000000;color:white;width:0.5rem;height:0.5rem;text-align:center;border-radius:50%;font-size:0.32rem;}
+.zuo:hover{background-color:#ff6700;z-index: 100}
+.you:hover{background-color:#ff6700;}
+.div_5{width:100%;text-align:center;background-color:#687078;}
+.div_5 h2{font-size:0.3rem;color: white;margin-top:0.5rem;}
+.div_5 p{font-size:0.15rem;color:#eefed6;padding-top:0.2rem;}
+.img1{width:0.27rem;height:0.03rem;display: block;padding-left:1.9rem;}
+.tu2{width:3.66rem;height:1.8rem;}
+.div_7{width:100%;text-align:center;}
+.div_7 h2{font-size:0.3rem;}
+.div_7 h3{font-size:0.2rem;}
+.div_7 ul li{padding-top:0.3rem;}
+.div_7 div{border:1px solid;border-top:0 solid;width:3.65rem;margin:0 auto;border-color: #eaeaea;}
+.img1{width:0.27rem;height:0.03rem;display: block;padding-left:1.9rem;}
+.div_7 p{font-size:0.15rem;}
+.div_8{background-color:#282d32;text-align: center;}
+.div_8 p{font-size:0.15rem;color:#aaaa8f;padding-top:0.2rem;}
+.div_8 img{display: block;padding-left:50%;}
+body .xiahua{
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    left: 0;
+    animation: xiahua .8s both linear;
+}
+@keyframes xiahua {
+    0% {
+        transform: translateY(-61px);
+    }
+    100% {
+        transform: translateY(0);
+    }}
+.xialai{animation: top 2s linear both;}
+@keyframes top {
+    0%{
+        transform: translateY(0.6rem);
+    }
+    100%{
+        transform: translateY(0rem);
+    }
+}
+
+
+
